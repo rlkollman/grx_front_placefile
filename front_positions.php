@@ -1,7 +1,7 @@
 <?php
-// The Surface Frontal Position (CODSUS) information is only updated by NWS every 4 hours. To 
-// prevent continuously hitting the NWS FTP server for stale information, we download this file
-// every 30 minutes. This was previously achieved through a crontab job, but I've added the
+// The Surface Frontal Position (CODSUS) information is only updated by NWS about every 3 hours.
+// To prevent continuously hitting the NWS FTP server for stale information, we download this
+// file every 30 minutes. This was previously achieved through a crontab job, but I've added the
 // functionality to this script so it's an all-in-one script.
 //
 // FTP URL:               ftp://tgftp.nws.noaa.gov/data/raw/as/asus02.kwbc.cod.sus.txt
