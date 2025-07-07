@@ -1,0 +1,206 @@
+site_id,wfo_id,lat,lng,unknown,unknown1,state,city
+kabr,kabr,45.455780,-98.413250,421,1,SD,Aberdeen
+kabx,kabq,35.149740,-106.824120,1813,1,NM,Albuquerque
+kakq,kakq,36.984040,-77.007470,77,1,VA,Wakefield
+kama,kama,35.233520,-101.709340,1128,1,TX,Amarillo
+kamx,kmfl,25.611220,-80.412670,33,1,FL,Miami
+kapx,kapx,44.907120,-84.719600,475,1,MI,Gaylord
+karx,karx,43.822780,-91.191120,413,1,WI,La Crosse
+katx,ksew,48.194600,-122.495860,195,1,WA,Seattle/Tacoma
+kbbx,ksto,39.495640,-121.631760,67,1,CA,Beale AFB
+kbgm,kbgm,42.199660,-75.984800,519,1,NY,Binghamton
+kbhx,keka,40.498630,-124.292040,766,1,CA,Eureka
+kbis,kbis,46.771040,-100.760640,534,1,ND,Bismarck
+kblx,kbyz,45.853890,-108.606860,1128,1,MT,Billings
+kbmx,kbmx,33.172160,-86.769740,231,1,AL,Birmingham
+kbox,kbox,41.955850,-71.136990,70,1,MA,Boston
+kbro,kbro,25.916000,-97.419000,26,1,TX,Brownsville
+kbuf,kbuf,42.948750,-78.736710,240,1,NY,Buffalo
+kbyx,kkey,24.597450,-81.703160,27,1,FL,Key West
+kcae,kcae,33.948740,-81.118250,104,1,SC,Columbia
+kcbw,kcar,46.039280,-67.806360,261,1,ME,Caribou
+kcbx,kboi,43.490260,-116.236130,966,1,ID,Boise
+kccx,kctp,40.923180,-78.003810,757,1,PA,State College
+kcle,kcle,41.413180,-81.859510,262,1,OH,Cleveland
+kclx,kchs,32.655510,-81.042270,69,1,SC,Charleston
+kcrp,kcrp,27.784000,-97.511240,43,1,TX,Corpus Christi
+kcxx,kbtv,44.511000,-73.166500,131,1,VT,Burlington
+kcys,kcys,41.151930,-104.806050,1887,1,WY,Cheyenne
+kdax,ksto,38.501140,-121.677910,43,1,CA,Sacramento
+kddc,kddc,37.760830,-99.968870,814,1,KS,Dodge City
+kdfx,kewx,29.273080,-100.280390,364,1,TX,Laughlin AFB
+kdgx,kjan,32.279820,-89.984470,185,1,MS,Jackson
+kdix,kphi,39.947030,-74.410760,70,1,PA,Philadelphia
+kdlh,kdlh,46.836890,-92.210050,470,1,MN,Duluth
+kdmx,kdmx,41.731200,-93.722960,333,1,IA,Des Moines
+kdox,kakq,38.825740,-75.440040,49,1,DE,Dover AFB
+kdtx,kdtx,42.699970,-83.471670,370,1,MI,Detroit
+kdvn,kdvn,41.612370,-90.582070,259,1,IA,Quad Cities
+kdyx,ksjt,32.538600,-99.254240,481,1,TX,Dyess AFB
+keax,keax,38.810230,-94.264260,334,1,MO,Kansas City
+kemx,ktwc,31.893650,-110.630370,1621,1,AZ,Tucson
+kenx,kaly,42.586540,-74.063900,589,1,NY,Albany
+keox,ktae,31.460540,-85.459370,163,1,AL,Fort Rucker
+kepz,kepz,31.873130,-106.697910,1285,1,TX,El Paso
+kesx,kvef,35.701200,-114.892120,1508,1,NV,Las Vegas
+kevx,kmob,30.565030,-85.921740,67,1,FL,Eglin AFB
+kewx,kewx,29.703950,-98.028510,233,1,TX,San Antonio
+keyx,kvef,35.097830,-117.560940,875,1,CA,Edwards AFB
+kfcx,krnk,37.024420,-80.273790,903,1,VA,Blacksburg
+kfdr,koun,34.362180,-98.976820,399,1,OK,Frederick
+kfdx,kabq,34.634060,-103.618790,1431,1,NM,Cannon AFB
+kffc,kffc,33.363540,-84.566020,296,1,GA,Atlanta
+kfsd,kfsd,43.587720,-96.729480,455,1,SD,Sioux falls
+kfsx,kfgz,34.574370,-111.198400,2290,1,AZ,Flagstaff
+kftg,kbou,39.786610,-104.545720,1709,1,CO,Denver/Boulder
+kfws,kfwd,32.573000,-97.303000,236,1,TX,Dallas/Fort Worth
+kggw,kggw,48.206470,-106.624890,726,1,MT,Glasgow
+kgjx,kgjt,39.062140,-108.213750,3078,1,CO,Grand Junction
+kgld,kgld,39.366840,-101.700330,1132,1,KS,Goodland
+kgrb,kgrb,44.499580,-88.111150,250,1,WI,Green Bay
+kgrk,kfwd,30.721790,-97.382980,183,1,TX,Central Texas
+kgrr,kgrr,42.893900,-85.544790,266,1,MI,Grand Rapids
+kgsp,kgsp,34.883300,-82.219640,325,1,SC,Greer
+kgwx,kjan,33.896900,-88.329110,179,1,MS,Columbus AFB
+kgyx,kgyx,43.891350,-70.256420,144,1,ME,Portland
+khdc,klix,30.519000,-90.407000,13,1,LA,New Orleans
+khdx,kepz,33.077010,-106.120100,1301,1,NM,Holloman AFB
+khgx,khgx,29.471890,-95.078560,35,1,TX,Houston
+khnx,khnx,36.314210,-119.632110,103,1,CA,San Joaquin Valley
+khpx,kpah,36.736960,-87.285550,190,1,KY,Fort Campbell
+khtx,khun,34.930480,-86.083470,566,1,AL,Huntsville
+kict,kict,37.654570,-97.443120,427,1,KS,Wichita
+kicx,kslc,37.591000,-112.862420,3278,1,UT,Cedar City
+kiln,kiln,39.420240,-83.821890,356,1,OH,Wilmington
+kilx,kilx,40.150560,-89.336980,222,1,IL,Lincoln
+kind,kind,39.707500,-86.280260,270,1,IN,Indianapolis
+kinx,ktsa,36.175090,-95.564160,228,1,OK,Tulsa
+kiwa,kpsr,33.289960,-111.669970,434,1,AZ,Phoenix
+kiwx,kiwx,41.358670,-85.699800,321,1,IN,Fort Wayne
+kjax,kjax,30.484590,-81.701890,48,1,FL,Jacksonville
+kjgx,kffc,32.675570,-83.350940,188,1,GA,Robins AFB
+kjkl,kjkl,37.590790,-83.312990,445,1,KY,Jackson
+klbb,klub,33.654130,-101.814150,1029,1,TX,Lubbock
+klch,klch,30.125320,-93.215860,41,1,LA,Lake Charles
+klgx,ksew,47.116930,-124.106590,111,1,WA,Langley Hill
+klix,klix,30.336770,-89.825450,54,0,LA,New Orleans
+klnx,klbf,41.957860,-100.576390,948,1,NE,North Platte
+klot,klot,41.604450,-88.084510,231,1,IL,Chicago
+klrx,klkn,40.739730,-116.802830,2101,1,NV,Elko
+klsx,klsx,38.698680,-90.682590,219,1,MO,St. Louis
+kltx,kilm,33.989170,-78.429000,44,1,NC,Wilmington
+klvx,klmk,37.975280,-85.943600,253,1,KY,Louisville
+klwx,klwx,38.976250,-77.487460,123,1,VA,Sterling
+klzk,klzk,34.836530,-92.262190,197,1,AR,Little Rock
+kmaf,kmaf,31.943390,-102.189250,902,1,TX,Midland/Odessa
+kmax,kmfr,42.081120,-122.717290,2302,1,OR,Medford
+kmbx,kbis,48.393050,-100.864570,484,1,ND,Minot AFB
+kmhx,kmhx,34.775940,-76.876270,43,1,NC,Morehead City
+kmkx,kmkx,42.967850,-88.550580,311,1,WI,Milwaukee
+kmlb,kmlb,28.113110,-80.653570,45,1,FL,Melbourne
+kmob,kmob,30.679550,-88.239880,88,1,AL,Mobile
+kmpx,kmpx,44.848770,-93.565410,335,1,MN,Minneapolis
+kmqt,kmqt,46.531150,-87.548290,464,1,MI,Marquette
+kmrx,kmrx,36.168510,-83.401760,437,1,TN,Knoxville
+kmsx,kmso,47.041030,-113.986240,2431,1,MT,Missoula
+kmtx,kslc,41.262760,-112.448010,2009,1,UT,Salt Lake City
+kmux,kmtr,37.155560,-121.898450,1082,1,CA,San Francisco
+kmvx,kfgf,47.528900,-97.325250,329,1,ND,Grand Forks
+kmxx,kbmx,32.536680,-85.789750,170,1,AL,Maxwell AFB
+knkx,ksgx,32.918960,-117.041780,320,1,CA,San Diego
+knqa,kmeg,35.344750,-89.873420,132,1,TN,Memphis
+koax,koax,41.320290,-96.366860,384,1,NE,Omaha
+kohx,kohx,36.247230,-86.562820,206,1,TN,Nashville
+kokx,kokx,40.865540,-72.863870,60,1,NY,Upton
+kotx,kotx,47.680380,-117.626880,746,1,WA,Spokane
+kpah,kpah,37.068480,-88.772320,153,1,KY,Paducah
+kpbz,kpbz,40.531900,-80.217730,385,1,PA,Pittsburgh
+kpdt,kpdt,45.690590,-118.852940,481,1,OR,Pendleton
+kpoe,klch,31.155740,-92.976070,143,1,LA,Fort Polk
+kpux,kpub,38.459640,-104.181350,1634,1,CO,Pueblo
+krax,krah,35.665580,-78.489760,140,1,NC,Raleigh/Durham
+krgx,krev,39.754120,-119.462190,2559,1,NV,Reno
+kriw,kriw,43.066060,-108.477200,1716,1,WY,Riverton
+krlx,krlx,38.311010,-81.722870,369,1,WV,Charleston
+krtx,kpqr,45.714980,-122.964870,526,1,OR,Portland
+ksfx,kpih,43.105580,-112.686330,1383,1,ID,Pocatello
+ksgf,ksgf,37.235210,-93.400670,419,1,MO,Springfield
+kshv,kshv,32.450790,-93.841320,117,1,LA,Shreveport
+ksjt,ksjt,31.371270,-100.492400,610,1,TX,San Angelo
+ksox,ksgx,33.817660,-117.635990,946,1,CA,Santa Ana Mountains
+ksrx,ktsa,35.290440,-94.361920,224,1,AR,Fort Smith
+ktbw,ktbw,27.705440,-82.401780,37,1,FL,Tampa
+ktfx,ktfx,47.459650,-111.385520,1159,1,MT,Great Falls
+ktlh,ktae,30.397680,-84.328870,53,1,FL,Tallahassee
+ktlx,koun,35.333350,-97.277760,389,1,OK,Oklahoma City
+ktwx,ktop,38.996940,-96.232510,431,1,KS,Topeka
+ktyx,kbtv,43.755640,-75.679460,597,1,NY,Montague
+kudx,kunr,44.124860,-102.829640,973,1,SD,Rapid City
+kuex,kgid,40.320960,-98.442040,626,1,NE,Hastings
+kvax,kjax,30.890250,-83.001690,100,1,GA,Moody AFB
+kvbx,klox,34.838310,-120.398050,412,1,CA,Vandenberg AFB
+kvnx,koun,36.740590,-98.127630,383,1,OK,Vance AFB
+kvtx,klox,34.411610,-119.179630,855,1,CA,Los Angeles
+kvwx,kpah,38.260380,-87.724540,191,1,IN,Evansville
+kyux,kpsr,32.495190,-114.656700,72,1,AZ,Yuma
+pabc,pafc,60.791980,-161.876480,57,1,AK,Bethel
+pacg,pajk,56.852640,-135.528750,82,1,AK,Biorka Island
+paec,pafg,64.511520,-165.295470,27,1,AK,Nome
+pahg,pafc,60.725980,-151.351550,108,1,AK,Kenai
+paih,pafc,59.461270,-146.303510,40,1,AK,Middleton Island
+pakc,pafc,58.679620,-156.629490,43,1,AK,King Salmon
+papd,pafg,65.035080,-147.501560,825,1,AK,Pedro Dome
+pgua,pgum,13.455900,144.811040,117,1,GU,Andersen AFB
+phki,phfo,21.893890,-159.552500,103,1,HI,Kauai
+phkm,phfo,20.125350,-155.778010,1208,1,HI,Kohala
+phmo,phfo,21.132840,-157.180130,440,1,HI,Molokai
+phwa,phfo,19.094980,-155.568860,445,1,HI,South Shore
+rkjk,pafc,35.924360,126.622140,58,1,KR,Kunsan AFB
+rksg,pafc,37.207620,127.285750,463,1,KR,Camp Humphreys
+rodn,pafc,26.307810,127.903290,125,1,JP,Kadena AFB
+tadw,klwx,38.695310,-76.844890,105,3,MD,TDWR Andrews Air Force Base
+tatl,kffc,33.646610,-84.262170,327,3,GA,TDWR Atlanta
+tbna,kohx,35.979680,-86.661660,249,3,TN,TDWR Nashville
+tbos,kbox,42.158300,-70.933430,80,3,MA,TDWR Boston
+tbwi,klwx,39.089610,-76.630180,104,3,MD,TDWR Baltimore/Wash
+tclt,kgsp,35.337370,-80.884870,265,3,NC,TDWR Charlotte
+tcmh,kiln,40.005660,-82.715320,349,3,OH,TDWR Columbus
+tcvg,kiln,38.898090,-84.579660,320,3,OH,TDWR Cincinnati
+tdal,kfwd,32.925760,-96.968220,189,3,TX,TDWR Dallas Love Field
+tday,kiln,40.022120,-84.123310,310,3,OH,TDWR Dayton
+tdca,klwx,38.759020,-76.961780,105,3,MD,TDWR Washington National
+tden,kbou,39.727420,-104.526490,1737,3,CO,TDWR Denver
+tdfw,kfwd,33.064810,-96.918160,178,3,TX,TDWR Dallas/Ft Worth
+tdtw,kdtx,42.111350,-83.514850,235,3,MI,TDWR Detroit
+tewr,kokx,40.593570,-74.270180,41,3,NJ,TDWR Newark
+tfll,kmfl,26.143200,-80.343970,36,3,FL,TDWR Fort Lauderdale
+thou,khgx,29.516310,-95.241600,35,3,TX,TDWR Houston Hobby
+tiad,klwx,39.083850,-77.529440,144,3,VA,TDWR Dulles
+tiah,khgx,30.064840,-95.566970,77,3,TX,TDWR Houston International
+tich,kict,37.507140,-97.436970,411,3,KS,TDWR Wichita
+tids,kind,39.637220,-86.435470,258,3,IN,TDWR Indianapolis
+tjfk,kokx,40.588840,-73.880230,34,3,NY,TDWR New York City
+tjua,tjsj,18.115690,-66.078170,901,1,PR,Puerto Rico
+tlas,kvef,36.143560,-115.007390,627,3,NV,TDWR Las Vegas
+tlve,kcle,41.289790,-82.007430,283,3,OH,TDWR Cleveland
+tmci,keax,39.498510,-94.742100,332,3,MO,TDWR Kansas City
+tmco,kmlb,28.343670,-81.325750,51,3,FL,TDWR Orlando International
+tmdw,klot,41.651340,-87.729550,232,3,IL,TDWR Chicago Midway
+tmem,kmeg,34.895800,-89.992690,147,3,TN,TDWR Memphis
+tmia,kmfl,25.757530,-80.491160,38,3,FL,TDWR Miami
+tmke,kmkx,42.819520,-88.046450,284,3,WI,TDWR Milwaukee
+tmsp,kmpx,44.871440,-92.932950,341,3,MN,TDWR Minneapolis
+tmsy,klix,30.021630,-90.403310,30,3,LA,TDWR New Orleans
+tokc,koun,35.276080,-97.509770,398,3,OK,TDWR Oklahoma City
+tord,klot,41.797090,-87.858240,226,3,IL,TDWR Chicago O'Hare
+tpbi,kmfl,26.687900,-80.273300,40,3,FL,TDWR West Palm Beach
+tphl,kphi,39.949210,-75.069840,46,3,PA,TDWR Philadelphia
+tphx,kpsr,33.420580,-112.162880,331,3,AZ,TDWR Phoenix
+tpit,kpbz,40.501340,-80.486110,422,3,PA,TDWR Pittsburgh
+trdu,krah,36.002070,-78.697360,156,3,NC,TDWR Raleigh Durham
+tsdf,klmk,38.045900,-85.610610,222,3,KY,TDWR Louisville
+tsju,tjsj,18.474010,-66.179580,47,3,PR,TDWR San Juan
+tslc,kslc,40.967330,-111.929740,1309,3,UT,TDWR Salt Lake City
+tstl,klsx,38.805370,-90.488830,197,3,MO,TDWR St Louis
+ttpa,ktbw,27.859550,-82.517780,28,3,FL,TDWR Tampa Bay
+ttul,ktsa,36.070510,-95.826450,250,3,OK,TDWR Tulsa
