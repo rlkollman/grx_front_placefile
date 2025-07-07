@@ -1,4 +1,4 @@
-### Surface Front Position Placefile
+# Surface Front Position Placefile
 This project generates a placefile containing the last reported Surface Front Positions provided by the National Weather Service. 
 This placefile can be used with GRLevel3, GRAnalyst and SupercellWX. When developing this script, I didn't concern myself with 
 ensuring the colors of the lines matched expectations in the weather community, so I've placed this project on Github in case 
@@ -11,6 +11,11 @@ information from the NWS every single time this script was requested. Originally
 file every 30 minutes. In the interest of providing an all-in-one project, I've added a caching feature to the script where it 
 will download the file if it is older than the configured `MaxCodsusAge`. The script then generates the lines showing the 
 location of the fronts and displays the corresponding Highs and Lows on the map using the supplied icon files in the icons folder.
+
+The data is downloaded from ftp://tgftp.nws.noaa.gov/data/raw/as/asus02.kwbc.cod.sus.txt and there is a lot of information about
+how to interpret this file located at https://www.wpc.ncep.noaa.gov/basicwx/read_coded_fcst_bull.shtml, although, it is not
+entirely correct. I had to make some adjustments as the CODSUS file contains more compressed lat/lng and time information, but
+it at least helped me get on the right track.
 
 ## What are the configuration options?
 - `$RefreshMinutes` is the interval for the placefile to reload itself. Again, since the data isn't updated frequently, it
