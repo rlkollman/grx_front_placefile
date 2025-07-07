@@ -16,8 +16,8 @@
 
 /*
  * $RefreshMinutes
- *   Interval between Placefile refresh in Client. Since this data is only updated by NOAA ever
- *   4 hours, we're only choosing to update this every 10 minutes as a default.
+ *   Interval between Placefile refresh in Client. Since this data is only updated by NOAA every
+ *   3 hours, we're only choosing to update this every 10 minutes as a default.
  */
 $RefreshMinutes = 10;
 
@@ -76,6 +76,9 @@ $ShowFileData = false;
 
 
 // Get the latest CODSUS data from NOAA or local cache (if within the MaxCodusAge option)
+// getCondusData() returns 2 variables:
+//   1 = DateTime object the information was last obtained
+//   2 = String object containing all of the CODSUS data for processing
 $codsus_data = getCodsusData();
 if (!$codsus_data) {
 	die('Unable to obtain CODSUS data for processing');
